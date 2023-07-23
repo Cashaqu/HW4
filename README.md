@@ -51,4 +51,4 @@
 Авторы работы:
 - https://github.com/Cashaqu
 - https://github.com/Tokarevmm
-- https://github.com/DKAvocad00# HW4
+- https://github.com/DKAvocad00
