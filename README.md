@@ -2,13 +2,13 @@
 
 1. Убедитесь, что читаете датасет из правильной директории
 2. В ноутбуке используются библиотеки:
-  - pandas
-  -numpy
-  -matplotlib
-  -seaborn
-  -plotly
-  -sklearn
-  -yellowbrick
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- sklearn
+- yellowbrick
 Убедитесь, что они установлены в вашей среде выполнения
 
 
